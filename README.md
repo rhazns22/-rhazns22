@@ -1,6 +1,4 @@
-# Jueun Park
-
-**Full-Stack Developer**
+# Full-Stack Developer
 
 I build product-oriented web systems with React and TypeScript, and usually take responsibility beyond the UI — API design, data modeling, authentication, deployment, and operational edge cases included.
 
